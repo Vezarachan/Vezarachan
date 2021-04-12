@@ -4,4 +4,4 @@
 - Study interests in **Urban Computing**, **Self-driving**, **Geoinformatics**, etc.
 - Chinese/English/a little French.
 
-![](https://img.shields.io/badge/Master-30%-success?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Master-30\%-success?style=for-the-badge&logo=appveyor)
