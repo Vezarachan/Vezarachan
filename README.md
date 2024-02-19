@@ -4,4 +4,4 @@
 - Study interests in **Spatial Intelligence**, **Self-driving**, **Cartography**, etc.
 - Chinese/English/a little French.
 
-![](https://img.shields.io/badge/Master-66.7%25-success?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Master-100%25-success?style=for-the-badge&logo=appveyor)
